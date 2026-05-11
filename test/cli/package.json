@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@opentelemetry/api": "^1.9.0",
-    "@opentelemetry/sdk-node": "^0.211.0",
+    "@opentelemetry/sdk-node": "^0.217.0",
     "@opentelemetry/sdk-trace-web": "^2.5.0",
     "@test/pkg-reporter": "link:./deps/pkg-reporter",
     "@test/test-dep-error": "file:./deps/error",
